@@ -1,4 +1,4 @@
-
+package MCProj;
 
 public class Cell {
 	int x[]=new int[6];

@@ -1,3 +1,5 @@
+package MCProj;
+
 import javax.swing.JFrame;
 
 
